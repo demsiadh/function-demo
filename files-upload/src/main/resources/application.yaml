@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: fileUploadService
+  profiles:
+    active: dev
