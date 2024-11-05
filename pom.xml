@@ -18,6 +18,7 @@
     <modules>
         <module>files-upload</module>
         <module>common</module>
+        <module>nio-demo</module>
     </modules>
 
     <properties>

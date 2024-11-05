@@ -2,9 +2,9 @@ package love.jiahao.file.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import love.jiahao.common.constants.FileConstants;
 import love.jiahao.common.domain.ResponseEntity;
 import love.jiahao.common.util.IOUtil;
-import love.jiahao.file.contants.FileConstants;
 import org.springframework.util.DigestUtils;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.*;
